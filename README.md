@@ -107,8 +107,13 @@ http://localhost:3000
 ### Courses Page
 Shows available courses with category, instructor, duration, and ratings.
 
+<img width="688" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed322622-b0ef-4ca7-9323-4e3fe5b45f64" />
+
+
 ### Course Details Page
 Displays full course description, learning outcomes, and enrollment options.
+<img width="928" height="1280" alt="image" src="https://github.com/user-attachments/assets/47db5a13-abb4-4107-af83-5a6f59b821dc" />
+
 
 ---
 
